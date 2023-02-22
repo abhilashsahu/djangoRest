@@ -1,0 +1,16 @@
+id,project_name,project_number,acquisition_date,number_3l_code,project_deal_type_id,project_group_id,project_status_id,company_id
+16,Mettlach,2,18/04/2019,MET,Share,RW 1,1 Operating,9
+17,Harrienstedt,3,13/04/2019,HAS,Share,RW 1,1 Operating,19
+11,Watzerath,8,07/01/2020,WAT,Asset,RW 1,1 Operating,17
+12,Egeln,11,27/01/2021,EGN,Share,QE 4,1 Operating,3
+21,Holtum,5,02/09/2019,HOL,Asset,RW 1,1 Operating,10
+22,Jeesewitz,7,02/09/2019,JES,Share,RW 1,1 Operating,11
+18,Zodel,9,24/04/2020,ZOD,Share,RW 1,1 Operating,16
+9,Zörbig,6,19/09/2019,ZRB,Asset,RW 1,1 Operating,14
+47,Ahrensbök,14,NULL,NULL,Share,QE 4,1 Operating,8
+13,Beppener Bruch,13,05/02/2021,BEB,Share,QE 4,2 DD,12
+15,Schackensleben,004 A,16/04/2019,SSA,Asset,RW 1,1 Operating,18
+20,Salingen,004 B,16/04/2019,SAL,Asset,RW 1,1 Operating,18
+14,Sebbenhausen-Schweringen,10,03/08/2020,SEB,Share,RW 1,1 Operating,13
+19,Ingstetten,12,NULL,ING,Asset,QE 4,2 DD,4
+10,Waldow,1,19/12/2019,WLD,Asset,RW 1,1 Operating,15
