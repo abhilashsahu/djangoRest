@@ -4,7 +4,7 @@
 ## Running with docker
 
 ```
-git clone <github_project_path>
+git clone https://github.com/abhilashsahu/djangoRest.git
 
 cd TestProject
 
